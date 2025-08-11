@@ -5,8 +5,9 @@
 
 
 I am a BackEnd Web developer with good grasp on FrontEnd development too. 
-I work mainly in the BackEnd using Django, but often time I have worked on FullStack projects using React
-Dedicated to build scalable web applications while ensuring it crafted in a clean efficient and visually appealling way, 
+I work mainly in the BackEnd using Django, but often times I have worked on FullStack projects using React.
+
+Dedicated to build scalable web applications while ensuring it is crafted in a clean, efficient and visually appealling way, 
 
 While web development is my core passion, I also like to sharpen my logical thinking with C++ problem-solving on platforms like LeetCode and Codeforces — a little mental workout that makes me a better developer.
 
@@ -20,7 +21,7 @@ Skills: REACT / JS / PYTHON / DJANGO /  HTML / CSS / MYSQL
 - 💬 Ask me about Web Development or Programming 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohsin105)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mohsin8824)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AftabIbn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/mohsin1950)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/tar-chira-uzbuk)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohsin105)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mohsin8824)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AftabIbn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/mohsin1950)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
