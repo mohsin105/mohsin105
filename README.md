@@ -1,11 +1,12 @@
-![I am GitHub Readme Generator's creator](https://scontent.fdac177-1.fna.fbcdn.net/v/t39.30808-6/530414069_784563004011969_864498375730371943_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CeCR5Ppxh1EQ7kNvwE0GLQ-&_nc_oc=AdmmsvgGgjtqDTM6PNbgFKYiZTelLWokchY4v2EEPAfR2wgC_dH6xiJN8s5NegmsxKg&_nc_zt=23&_nc_ht=scontent.fdac177-1.fna&_nc_gid=8m3HaxWmMZZk-t4gjHp1ew&oh=00_AfUIjTjFq2ymGpuw4LJPrCP31FtvP_WkhOLicSTyS3ijUg&oe=68A02916)
+![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/mohsin105/mohsin105/refs/heads/main/assets/github_banner_final.jpg)
 
-### Hi there 👋, I am Mohsin Ibn Aftab
-#### Web Developer
+## Hi there 👋, I am Mohsin Ibn Aftab
+### Web Developer
 
 
-I am a BackEnd Web developer with good grasp on FrontEnd development too. 
-I work mainly in the BackEnd using Django, but often times I have worked on FullStack projects using React.
+
+I am a Backend Web Developer with a strong grasp of Frontend development. 
+I mainly work with Django on the backend, but I have also built Fullstack projects using React.
 
 Dedicated to build scalable web applications while ensuring it is crafted in a clean, efficient and visually appealling way, 
 
@@ -16,9 +17,9 @@ I believe in learning by building — every project I take on is an opportunity 
 Skills: REACT / JS / PYTHON / DJANGO /  HTML / CSS / MYSQL 
 
 - 🔭 I’m currently working on Whistle-a social media app.  
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning JS, Python , React, Django
 - 👯 I’m looking to collaborate on FullStack Project 
-- 💬 Ask me about Web Development or Programming 
+- 💬 Ask me anything about Web Development or Programming 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohsin105)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mohsin8824)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AftabIbn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/mohsin1950)  
